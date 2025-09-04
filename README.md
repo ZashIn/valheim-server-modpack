@@ -24,3 +24,4 @@ Server mod list
 - [Monstrum Raids](https://thunderstore.io/c/valheim/p/JewelHeim/Monstrum_Raids/) v1.0
 - [Server devcommands](https://thunderstore.io/c/valheim/p/JereKuusela/Server_devcommands/) v1.97
 - [Upgrade World](https://thunderstore.io/c/valheim/p/JereKuusela/Upgrade_World/) v1.73
+- [Teleport Everything](https://nexusmods.com/valheim/mods/1806) v2.9
