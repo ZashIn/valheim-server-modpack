@@ -1,4 +1,4 @@
-Server mod list
+## Server mod list
 - [BepInExPack_Valheim](https://thunderstore.io/c/valheim/p/denikson/BepInExPack_Valheim/) v5.4.2333
 - [HookGenPatcher](https://nexusmods.com/valheim/mods/505) v0.0.3
 - [Jotunn the Valheim Library](https://nexusmods.com/valheim/mods/1138) v2.26.1
@@ -14,7 +14,6 @@ Server mod list
 - [Rune Magic](https://nexusmods.com/valheim/mods/1359) v1.3.1
 - [BoneAppetit](https://nexusmods.com/valheim/mods/1250) v3.3
 - [Valharvest](https://nexusmods.com/valheim/mods/1600) v3.1.2
-- [Useful Trophies Again](https://nexusmods.com/valheim/mods/3050) v0.1.1
 - [Multi User Chest](https://nexusmods.com/valheim/mods/1766) v0.6.1
 - [Warfare](https://thunderstore.io/c/valheim/p/Therzie/Warfare/) v1.8.9
 - [Monstrum](https://thunderstore.io/c/valheim/p/Therzie/Monstrum/) v1.5.1
@@ -27,3 +26,6 @@ Server mod list
 - [Teleport Everything](https://nexusmods.com/valheim/mods/1806) v2.9
 - [ValheimRAFT](https://thunderstore.io/c/valheim/p/zolantris/ValheimRAFT/) v3.7.2
 - [Plant Everything](https://nexusmods.com/valheim/mods/1042) v1.19.1
+
+## Bugged - removed
+- ~[Useful Trophies Again](https://nexusmods.com/valheim/mods/3050) v0.1.1~: cannot summon some bosses
