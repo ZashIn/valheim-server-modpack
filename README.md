@@ -26,3 +26,4 @@ Server mod list
 - [Upgrade World](https://thunderstore.io/c/valheim/p/JereKuusela/Upgrade_World/) v1.73
 - [Teleport Everything](https://nexusmods.com/valheim/mods/1806) v2.9
 - [ValheimRAFT](https://thunderstore.io/c/valheim/p/zolantris/ValheimRAFT/) v3.7.2
+- [Plant Everything](https://nexusmods.com/valheim/mods/1042) v1.19.1
