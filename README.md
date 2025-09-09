@@ -25,7 +25,7 @@
 - [Upgrade World](https://thunderstore.io/c/valheim/p/JereKuusela/Upgrade_World/) v1.73
 - [Teleport Everything](https://nexusmods.com/valheim/mods/1806) v2.9
 - [ValheimRAFT](https://thunderstore.io/c/valheim/p/zolantris/ValheimRAFT/) v3.7.2
-- [Plant Everything](https://nexusmods.com/valheim/mods/1042) v1.19.1
+- [Plant Everything](https://nexusmods.com/valheim/mods/1042) v1.20
 
 ## Bugged - removed
 - ~[Useful Trophies Again](https://nexusmods.com/valheim/mods/3050) v0.1.1~: cannot summon some bosses
