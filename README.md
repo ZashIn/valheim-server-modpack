@@ -6,7 +6,7 @@
 - [Valheim Plus (by Grantapher)](https://nexusmods.com/valheim/mods/2323) v0.9.16.2
 - [ValheimLegendsFork_](https://thunderstore.io/c/valheim/p/Visteus/Valheim_Legends_Fork/) v0.7.5
 - [Weedheim](https://nexusmods.com/valheim/mods/3021) v2.0.4
-- [Wisdom](https://nexusmods.com/valheim/mods/2790) v1.0.3
+- [Wisdom](https://nexusmods.com/valheim/mods/2790) v1.0.4
 - [VALKEA](https://nexusmods.com/valheim/mods/2123) v3.0
 - [PlanBuild - Blueprint Rune](https://nexusmods.com/valheim/mods/1125) v0.18.2
 - [Epic Loot](https://nexusmods.com/valheim/mods/387) v0.11.4
