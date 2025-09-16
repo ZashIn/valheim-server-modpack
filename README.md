@@ -27,6 +27,7 @@
 - [ValheimRAFT](https://thunderstore.io/c/valheim/p/zolantris/ValheimRAFT/) v3.7.2
 - [Plant Everything](https://nexusmods.com/valheim/mods/1042) v1.20
 - [AllTameableTamingOverhaul](https://thunderstore.io/c/valheim/p/Meldurson/AllTameableTamingOverhaul/) v1.5.3
+- [DragonRiders](https://thunderstore.io/c/valheim/p/Yggdrah/DragonRiders/) v2.1
 
 ## Bugged - removed
 - ~[Useful Trophies Again](https://nexusmods.com/valheim/mods/3050) v0.1.1~: cannot summon some bosses
