@@ -21,8 +21,8 @@
 - [Monstrum Deep North](https://thunderstore.io/c/valheim/p/Therzie/MonstrumDeepNorth/) v2.0.6
 - [Custom Raids](https://thunderstore.io/c/valheim/p/ASharpPen/Custom_Raids/) v1.8
 - [Monstrum Raids](https://thunderstore.io/c/valheim/p/JewelHeim/Monstrum_Raids/) v1.0
-- [Server devcommands](https://thunderstore.io/c/valheim/p/JereKuusela/Server_devcommands/) v1.97
-- [Upgrade World](https://thunderstore.io/c/valheim/p/JereKuusela/Upgrade_World/) v1.73
+- [Server devcommands](https://thunderstore.io/c/valheim/p/JereKuusela/Server_devcommands/) v1.99
+- [Upgrade World](https://thunderstore.io/c/valheim/p/JereKuusela/Upgrade_World/) v1.74
 - [Teleport Everything](https://nexusmods.com/valheim/mods/1806) v2.9
 - [ValheimRAFT](https://thunderstore.io/c/valheim/p/zolantris/ValheimRAFT/) v3.7.2
 - [Plant Everything](https://nexusmods.com/valheim/mods/1042) v1.20
