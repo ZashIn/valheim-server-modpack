@@ -28,6 +28,7 @@
 - [Plant Everything](https://nexusmods.com/valheim/mods/1042) v1.20
 - [AllTameableTamingOverhaul](https://thunderstore.io/c/valheim/p/Meldurson/AllTameableTamingOverhaul/) v1.5.3
 - [DragonRiders](https://thunderstore.io/c/valheim/p/Yggdrah/DragonRiders/) v2.1
+- [BetterRiding](https://thunderstore.io/c/valheim/p/Yggdrah/BetterRiding/) v1.2.8
 - [Epic Valheim Additions - by Huntard](https://nexusmods.com/valheim/mods/1475) v2.1.2
 
 ## Bugged - removed
