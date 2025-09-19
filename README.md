@@ -8,7 +8,7 @@
 - [Weedheim](https://nexusmods.com/valheim/mods/3021) v2.0.4
 - [Wisdom](https://nexusmods.com/valheim/mods/2790) v1.0.4
 - [VALKEA](https://nexusmods.com/valheim/mods/2123) v3.0
-- [PlanBuild - Blueprint Rune](https://nexusmods.com/valheim/mods/1125) v0.18.2
+- [PlanBuild - Blueprint Rune](https://nexusmods.com/valheim/mods/1125) v0.18.3
 - [Epic Loot](https://nexusmods.com/valheim/mods/387) v0.11.4
 - [Skyheim - Valheim Magic](https://nexusmods.com/valheim/mods/916) v1.3.12
 - [Rune Magic](https://nexusmods.com/valheim/mods/1359) v1.3.1

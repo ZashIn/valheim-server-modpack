@@ -1,3 +1,9 @@
+# Version 0.18.3
+* Compatible with Valheim 0.221.3 (Call to Arms)
+* Added support for orientation of item stand attachments
+* Spanish translation (thx Acraciel)
+* Reduced value of Skuld Crystal to Greydwarf Eye
+
 # Version 0.18.2
 * Aligned rotation to placement ghost offset (thx sea212)
 * Updated dependencies, resolved warnings and removed unused imports (thx sea212)
