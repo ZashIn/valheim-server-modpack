@@ -7,7 +7,6 @@
 - [ValheimLegendsFork_](https://thunderstore.io/c/valheim/p/Visteus/Valheim_Legends_Fork/) v0.7.5
 - [Weedheim](https://nexusmods.com/valheim/mods/3021) v2.0.4
 - [Wisdom](https://nexusmods.com/valheim/mods/2790) v1.0.4
-- [VALKEA](https://nexusmods.com/valheim/mods/2123) v3.0
 - [PlanBuild - Blueprint Rune](https://nexusmods.com/valheim/mods/1125) v0.18.3
 - [Epic Loot](https://nexusmods.com/valheim/mods/387) v0.11.4
 - [Skyheim - Valheim Magic](https://nexusmods.com/valheim/mods/916) v1.3.12
@@ -24,7 +23,6 @@
 - [Server devcommands](https://thunderstore.io/c/valheim/p/JereKuusela/Server_devcommands/) v1.99
 - [Upgrade World](https://thunderstore.io/c/valheim/p/JereKuusela/Upgrade_World/) v1.74
 - [Teleport Everything](https://nexusmods.com/valheim/mods/1806) v2.9
-- [ValheimRAFT](https://thunderstore.io/c/valheim/p/zolantris/ValheimRAFT/) v3.7.2
 - [Plant Everything](https://nexusmods.com/valheim/mods/1042) v1.20
 - [AllTameableTamingOverhaul](https://thunderstore.io/c/valheim/p/Meldurson/AllTameableTamingOverhaul/) v1.5.3
 - [DragonRiders](https://thunderstore.io/c/valheim/p/Yggdrah/DragonRiders/) v2.1
