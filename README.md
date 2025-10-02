@@ -29,5 +29,4 @@
 - [BetterRiding](https://thunderstore.io/c/valheim/p/Yggdrah/BetterRiding/) v1.2.8
 - [Epic Valheim Additions - by Huntard](https://nexusmods.com/valheim/mods/1475) v2.1.2
 - [Recycle_N_Reclaim](https://thunderstore.io/c/valheim/p/Azumatt/Recycle_N_Reclaim/) v1.3.8
-- [DeezMistyBalls](https://thunderstore.io/c/valheim/p/Azumatt/DeezMistyBalls/) v1.0.6
 - [Longship Upgrades](https://nexusmods.com/valheim/mods/2885) v1.0.12
