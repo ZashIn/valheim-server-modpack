@@ -31,3 +31,4 @@
 - [Recycle_N_Reclaim](https://thunderstore.io/c/valheim/p/Azumatt/Recycle_N_Reclaim/) v1.3.8
 - [Longship Upgrades](https://nexusmods.com/valheim/mods/2885) v1.0.12
 - [PetPantry](https://thunderstore.io/c/valheim/p/Azumatt/PetPantry/) v1.0.5
+- [Wizardry](https://thunderstore.io/c/valheim/p/Therzie/Wizardry/) v1.1.8
