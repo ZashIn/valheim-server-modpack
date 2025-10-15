@@ -32,3 +32,4 @@
 - [Longship Upgrades](https://nexusmods.com/valheim/mods/2885) v1.0.12
 - [PetPantry](https://thunderstore.io/c/valheim/p/Azumatt/PetPantry/) v1.0.5
 - [Wizardry](https://thunderstore.io/c/valheim/p/Therzie/Wizardry/) v1.1.8
+- [Longer Portal Tags](https://nexusmods.com/valheim/mods/2613) v1.0
