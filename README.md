@@ -10,7 +10,7 @@
 - [PlanBuild - Blueprint Rune](https://nexusmods.com/valheim/mods/1125) v0.18.3
 - [Epic Loot](https://nexusmods.com/valheim/mods/387) v0.11.4
 - [Skyheim - Valheim Magic](https://nexusmods.com/valheim/mods/916) v1.3.12
-- [Rune Magic](https://nexusmods.com/valheim/mods/1359) v1.3.1
+- [Rune Magic](https://nexusmods.com/valheim/mods/1359) v1.3.2
 - [BoneAppetit](https://nexusmods.com/valheim/mods/1250) v3.3
 - [Valharvest](https://nexusmods.com/valheim/mods/1600) v3.1.2
 - [Multi User Chest](https://nexusmods.com/valheim/mods/1766) v0.6.1
